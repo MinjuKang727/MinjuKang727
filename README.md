@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjukang727@gmail.com)](https://solved.ac/minjukang727@gmail.com)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjukang727@gmail.com)
