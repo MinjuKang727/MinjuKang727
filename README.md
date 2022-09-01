@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
 </div>
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjukang727)
+
 <br><br><br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical)
 
