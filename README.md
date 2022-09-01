@@ -25,9 +25,19 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<div style="display:inline-flex; flex-flow:row wrap;">
+<div style='flex:auto;'>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjukang727)
+  
+</div>
 
-<br><br><br>
+<div style='flex:auto;'>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical)
+  
+</div>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
