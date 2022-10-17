@@ -1,7 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=포기를%20모르는%20백엔드%20개발자&fontSize=60)
 
 
-Here are some ideas to get you started:
+# 제 이름은 강민주입니다!👋
+
+
+
 
 
 <h1>Skills</h1>
