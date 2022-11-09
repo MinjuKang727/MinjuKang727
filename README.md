@@ -12,11 +12,12 @@
 <div sytle="display:inline;">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<h3>Templates</h3>
 <img alt="Jinja" src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=Jinja&logoColor=white"/>
 </div>
 <h3>IDE</h3>
@@ -25,6 +26,8 @@
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
+<img alt="Arduino Sketch" src="https://img.shields.io/badge/Arduino sketch-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+<img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 </div>
 <br>
 
