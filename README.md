@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=포기를%20모르는%20백엔드%20개발자&fontSize=60)
 
-
-# 제 이름은 강민주입니다!👋
-
-
-
-
+# I'm Super Junior! 🐱‍🏍
+> This is Minju-Kang's GitHub, who wants to be Super Junior.
 
 <h1>Skills</h1>
 <h3>Language</h3>
@@ -31,19 +27,8 @@
 </div>
 <br>
 
-<div style="display:inline-flex; flex-flow:row wrap;">
-<div style='flex:auto;'>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjukang727)
-  
-</div>
-
-<div style='flex:auto;'>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical)
-  
-</div>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjukang727" >
+<img src="https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical" width="30%" margin-top="0" float="left" margin-right="30%">
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
