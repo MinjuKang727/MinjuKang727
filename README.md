@@ -28,7 +28,7 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjukang727" >
-<img src="https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical" width="30%" margin-top="0" float="left" margin-right="30%">
+<img src="https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical">
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
