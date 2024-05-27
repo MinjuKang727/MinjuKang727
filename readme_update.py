@@ -8,12 +8,15 @@ Original file is located at
 """
 
 import feedparser
+import datetime
 
 feed = feedparser.parse("https://ajtwltsk.tistory.com/rss")
 
 markdown_text = """
 # I'm Super Junior! 🐱‍🏍
 > This is Minju-Kang's GitHub, who wants to be Super Junior.
+
+<br>
 
 <h1>Skills</h1>
 <h3>Language</h3>
@@ -35,17 +38,32 @@ markdown_text = """
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjukang727" >
 <img src="https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical">
 
-<img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
-
-### I'm Super Junior
-  > I'm uploading contents on Tistory
-
+<br><br>
 
 """
 
-for i in feed['entries'][:5]:
-    markdown_text += f"- <a href=\"{i['link']}\"> {i['title']} </a><br>  \n"
+count = 0;
+x = datetime.datetime.today()
+today = datetime.datetime(x.year, x.month, x.day, 0, 0, 0, 0)
+markdown_text2 = ""
+for i in feed['entries']:
+    markdown_text2 += f"- <a href=\"{i['link']}\"> {i['title']} </a><br>  \n"
+    date = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").replace(tzinfo=None)
+    if (today - date).days + 1 <= 460 :
+      count += 1
 
+markdown_text += f"""
+<br>
+
+<img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
+
+###  I'm Super Junior
+> I'm uploading contents on Tistory  
+> 최근 일주일 간 게시글 `+ {count}`  
+
+{markdown_text2}
+""" 
+    
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
 f.close()
