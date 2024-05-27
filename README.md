@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`) 
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`)  
 
 - <a href="https://ajtwltsk.tistory.com/18"> 백엔드 신입 개발자가 쌓아야 하는 역량은? - 자료구조/알고리즘/코딩테스트편 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/17"> 앞으로의 백엔드 공부 계획(feat. 백엔드 공부법) </a><br>  
