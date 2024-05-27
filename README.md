@@ -2,6 +2,8 @@
 # I'm Super Junior! 🐱‍🏍
 > This is Minju-Kang's GitHub, who wants to be Super Junior.
 
+<br>
+
 <h1>Skills</h1>
 <h3>Language</h3>
 <div sytle="display:inline;">
@@ -22,14 +24,28 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjukang727" >
 <img src="https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical">
 
+<br><br>
+
+
+<br>
+
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
-### I'm Super Junior
-  > I'm uploading contents on Tistory
-
+###  I'm Super Junior
+> I'm uploading contents on Tistory  
+> 최근 일주일 간 게시글 `+ 4`  
 
 - <a href="https://ajtwltsk.tistory.com/18"> 백엔드 신입 개발자가 쌓아야 하는 역량은? - 자료구조/알고리즘/코딩테스트편 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/17"> 앞으로의 백엔드 공부 계획(feat. 백엔드 공부법) </a><br>  
 - <a href="https://ajtwltsk.tistory.com/16"> [ Java ] Java 래퍼런스(API Documentation) 참고하기 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/15"> 백엔드 커리어 로드맵 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/14"> 프론트엔드 백엔드 차이 - 백엔드 개발자가 되고 싶은 이유 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/13"> [ Java ] 배열 비교하기 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/12"> [ Java ] String.format 함수 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/11"> GitHub CML 작성 가이드 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/10"> GitBash 설치하기 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/9"> [ Java ] Enum 클래스 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/8"> [ Python ] Collections - Counter, defaultdict </a><br>  
+- <a href="https://ajtwltsk.tistory.com/7"> [ Python ] itertools.combinations(iterable, r) </a><br>  
+- <a href="https://ajtwltsk.tistory.com/4"> [해석학 기출문제] -  R의 완비성 1번 </a><br>  
+
