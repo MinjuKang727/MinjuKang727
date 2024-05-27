@@ -49,7 +49,7 @@ markdown_text2 = ""
 for i in feed['entries']:
     markdown_text2 += f"- <a href=\"{i['link']}\"> {i['title']} </a><br>  \n"
     date = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").replace(tzinfo=None)
-    if (today - date).days + 1 <= 460 :
+    if (today - date).days + 1 <= 7 :
       count += 1
 
 markdown_text += f"""
