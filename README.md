@@ -1,6 +1,6 @@
 
 # I'm Super Junior! 🐱‍🏍
-> This is Minju-Kang's GitHub, who wants to be Super Junior.
+    > This is Minju-Kang's GitHub, who wants to be Super Junior.
 
 <br>
 
@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`)  
+    > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`)  
 
 - <a href="https://ajtwltsk.tistory.com/23"> [Programmers SQL 문제 풀이] 이름이 있는 동물의 아이디 Solution with IS NOT NULL </a><br>  
 - <a href="https://ajtwltsk.tistory.com/22"> 99클럽 코테 스터디 8일차 TIL + 정렬 </a><br>  
