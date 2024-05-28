@@ -32,8 +32,12 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 0`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`)  
 
+- <a href="https://ajtwltsk.tistory.com/23"> [Programmers SQL 문제 풀이] 이름이 있는 동물의 아이디 Solution with IS NOT NULL </a><br>  
+- <a href="https://ajtwltsk.tistory.com/22"> 99클럽 코테 스터디 8일차 TIL + 정렬 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/21"> [Programmers | 정렬 | H-Index 문제 풀이] Solution with sort &amp; for statement </a><br>  
+- <a href="https://ajtwltsk.tistory.com/20"> [LeetCode 2824번 문제 풀이] Count Pairs Whose Sum is Less than Target - Solution with 이중for문 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/18"> 백엔드 신입 개발자가 쌓아야 하는 역량은? - 자료구조/알고리즘/코딩테스트편 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/17"> 앞으로의 백엔드 공부 계획(feat. 백엔드 공부법) </a><br>  
 - <a href="https://ajtwltsk.tistory.com/16"> [ Java ] Java 래퍼런스(API Documentation) 참고하기 </a><br>  
@@ -46,5 +50,4 @@
 - <a href="https://ajtwltsk.tistory.com/9"> [ Java ] Enum 클래스 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/8"> [ Python ] Collections - Counter, defaultdict </a><br>  
 - <a href="https://ajtwltsk.tistory.com/7"> [ Python ] itertools.combinations(iterable, r) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/4"> [해석학 기출문제] -  R의 완비성 1번 </a><br>  
 
