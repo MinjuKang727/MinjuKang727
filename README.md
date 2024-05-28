@@ -39,18 +39,4 @@
 - <a href="https://ajtwltsk.tistory.com/27"> [Programmers | &quot;코딩테스트 입문&quot; 문제 풀이] 두 수의 차 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/23"> [Programmers SQL 문제 풀이] 이름이 있는 동물의 아이디 Solution with IS NOT NULL </a><br>  
 - <a href="https://ajtwltsk.tistory.com/22"> 99클럽 코테 스터디 8일차 TIL + 정렬 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/21"> [Programmers | 정렬 | H-Index 문제 풀이] Solution with sort &amp; for statement </a><br>  
-- <a href="https://ajtwltsk.tistory.com/20"> [LeetCode 2824번 문제 풀이] Count Pairs Whose Sum is Less than Target - Solution with 이중for문 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/18"> 백엔드 신입 개발자가 쌓아야 하는 역량은? - 자료구조/알고리즘/코딩테스트편 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/17"> 앞으로의 백엔드 공부 계획(feat. 백엔드 공부법) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/16"> [ Java ] Java 래퍼런스(API Documentation) 참고하기 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/15"> 백엔드 커리어 로드맵 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/14"> 프론트엔드 백엔드 차이 - 백엔드 개발자가 되고 싶은 이유 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/13"> [ Java ] 배열 비교하기 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/12"> [ Java ] String.format 함수 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/11"> GitHub CML 작성 가이드 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/10"> GitBash 설치하기 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/9"> [ Java ] Enum 클래스 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/8"> [ Python ] Collections - Counter, defaultdict </a><br>  
-- <a href="https://ajtwltsk.tistory.com/7"> [ Python ] itertools.combinations(iterable, r) </a><br>  
 
