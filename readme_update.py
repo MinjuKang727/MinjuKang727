@@ -14,7 +14,7 @@ feed = feedparser.parse("https://ajtwltsk.tistory.com/rss")
 
 markdown_text = """
 # I'm Super Junior! 🐱‍🏍
-> This is Minju-Kang's GitHub, who wants to be Super Junior.
+  > This is Minju-Kang's GitHub, who wants to be Super Junior.
 
 <br>
 
