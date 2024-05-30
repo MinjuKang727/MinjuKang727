@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 13`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 19`)  
 
-- <a href="https://ajtwltsk.tistory.com/39"> [NBCAMP | Java 6기] 1일차 TIL + 연산자, IS NULL, ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/38"> [Programmers | &quot;코딩 테스트 입문&quot; 문제 풀이] 두 수의 곱 Solution with Arithmetic Operator </a><br>  
-- <a href="https://ajtwltsk.tistory.com/37"> [NBCAMP | Java 6기] 2일차 TIL + 연산자, ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/36"> [Java 봐] Operators(연산자) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/35"> [99 클럽]99클럽 코테 스터디 9일차 TIL + 완전 탐색 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/46"> [NBCAMP | JAVA 6기] 3일차 TIL + 몫 연산자, COUNT, DISTINCT, IS NOT NULL </a><br>  
+- <a href="https://ajtwltsk.tistory.com/44"> [Programmers | ORACLE |  SUM, MAX, MIN 문제 풀이] 중복 제거하기 - Solution with COUNT &amp; DISTINCT </a><br>  
+- <a href="https://ajtwltsk.tistory.com/43"> [Programmers | Java |  코딩 테스트 입문  문제 풀이] 몫 구하기 - Solution with Quotient Operator </a><br>  
+- <a href="https://ajtwltsk.tistory.com/42"> [99클럽] 99클럽 코테 스터디 10일차 TIL + 완전 탐색 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/41"> [Programmers | Java |  완전 탐색  문제 풀이] 모의고사 </a><br>  
 
