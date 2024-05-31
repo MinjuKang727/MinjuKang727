@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 19`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 20`)  
 
-- <a href="https://ajtwltsk.tistory.com/46"> [NBCAMP | JAVA 6기] 3일차 TIL + 몫 연산자, COUNT, DISTINCT, IS NOT NULL </a><br>  
-- <a href="https://ajtwltsk.tistory.com/44"> [Programmers | ORACLE |  SUM, MAX, MIN 문제 풀이] 중복 제거하기 - Solution with COUNT &amp; DISTINCT </a><br>  
-- <a href="https://ajtwltsk.tistory.com/43"> [Programmers | Java |  코딩 테스트 입문  문제 풀이] 몫 구하기 - Solution with Quotient Operator </a><br>  
-- <a href="https://ajtwltsk.tistory.com/42"> [99클럽] 99클럽 코테 스터디 10일차 TIL + 완전 탐색 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/41"> [Programmers | Java |  완전 탐색  문제 풀이] 모의고사 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/53"> [Programmers | Java |  코딩테스트 입문  문제 풀이] 숫자 비교하기 - Solution with Ternary Operator </a><br>  
+- <a href="https://ajtwltsk.tistory.com/52"> [NBCAMP | JAVA 6기] 4일차 TIL + 산술 연산자, SELECT, ORDER BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/51"> [Java 봐 | 자료 구조] 트리(Tree) 개념 정리 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/50"> [99클럽] 99클럽 코테 스터디 11일차 TIL + 트리(Tree) </a><br>  
+- <a href="https://ajtwltsk.tistory.com/49"> [LeetCode | Java | DFS/BFS  문제 풀이] 938. Range Sum of BST - Solution with Recursion Function </a><br>  
 
