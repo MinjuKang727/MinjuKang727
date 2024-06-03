@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 20`)  
 
-- <a href="https://ajtwltsk.tistory.com/63"> [NBCAMP | JAVA 6기] 6일차 TIL + GROUP BY &amp; HAVING &amp; Operator </a><br>  
-- <a href="https://ajtwltsk.tistory.com/62"> [99클럽] 99클럽 코테 스터디 13일차 TIL + Tree &amp; DFS </a><br>  
-- <a href="https://ajtwltsk.tistory.com/61"> [Programmers | Java |  코딩테스트 입문  문제 풀이] 두 수의 합 - Solution with Arithmetic Operator </a><br>  
-- <a href="https://ajtwltsk.tistory.com/60"> [Programmers | ORACLE | GROUP BY  문제 풀이] 동명 동물 수 찾기 - Solution with GROUP BY, HAVING </a><br>  
-- <a href="https://ajtwltsk.tistory.com/59"> [DB 봐 | ORACLE SQL] GROUP BY, HAVING 절 사용법 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/69"> [99클럽] 99클럽 코테 스터디 14일차 TIL + Tree, DFS </a><br>  
+- <a href="https://ajtwltsk.tistory.com/68"> [NBCAMP | JAVA 6기] 7일차 TIL + LIKE &amp; Type casting </a><br>  
+- <a href="https://ajtwltsk.tistory.com/67"> [LeetCode | Java | DFS  문제 풀이] 226. Invert Binary Tree - Solution with DFS </a><br>  
+- <a href="https://ajtwltsk.tistory.com/66"> [Programmers | ORACLE | SELECT  문제 풀이] 아픈 동물 찾기 - Solution with WHERE, LIKE </a><br>  
+- <a href="https://ajtwltsk.tistory.com/65"> [Programmers | Java |  코딩테스트 입문  문제 풀이] 두 수의 나눗셈 - Solution with Arithmetic Operator </a><br>  
 
