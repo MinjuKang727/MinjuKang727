@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 20`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 44`)  
 
+- <a href="https://ajtwltsk.tistory.com/73"> [NBCAMP | JAVA 6기] 8일차 TIL + Where, From절 SubQuery </a><br>  
+- <a href="https://ajtwltsk.tistory.com/72"> [99클럽] 99클럽 코테 스터디 15일차 TIL + Binary Tree &amp; DFS </a><br>  
+- <a href="https://ajtwltsk.tistory.com/71"> [LeetCode | Java | DFS/BFS  문제 풀이] 104. Maximum Depth of Binary Tree - Solution with DFS </a><br>  
+- <a href="https://ajtwltsk.tistory.com/70"> [Programmers | Java |  코딩테스트 입문  문제 풀이] 각도기 - Solution with If statement </a><br>  
 - <a href="https://ajtwltsk.tistory.com/69"> [99클럽] 99클럽 코테 스터디 14일차 TIL + Tree, DFS </a><br>  
-- <a href="https://ajtwltsk.tistory.com/68"> [NBCAMP | JAVA 6기] 7일차 TIL + LIKE &amp; Type casting </a><br>  
-- <a href="https://ajtwltsk.tistory.com/67"> [LeetCode | Java | DFS  문제 풀이] 226. Invert Binary Tree - Solution with DFS </a><br>  
-- <a href="https://ajtwltsk.tistory.com/66"> [Programmers | ORACLE | SELECT  문제 풀이] 아픈 동물 찾기 - Solution with WHERE, LIKE </a><br>  
-- <a href="https://ajtwltsk.tistory.com/65"> [Programmers | Java |  코딩테스트 입문  문제 풀이] 두 수의 나눗셈 - Solution with Arithmetic Operator </a><br>  
 
