@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 40`)  
 
-- <a href="https://ajtwltsk.tistory.com/78"> [NBCAMP | JAVA 6기] 9일차 TIL + Loop &amp; MIN </a><br>  
-- <a href="https://ajtwltsk.tistory.com/77"> [99클럽] 99클럽 코테 스터디 16일차 TIL + 탐욕법(Greedy) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/76"> [Programmers | Java |  코딩테스트 입문  문제 풀이] 짝수의 합 - Solution with Loop </a><br>  
-- <a href="https://ajtwltsk.tistory.com/75"> [Programmers | ORACLE | SUM, MAX, MIN  문제 풀이] 최솟값 구하기 - Solution with MIN </a><br>  
-- <a href="https://ajtwltsk.tistory.com/74"> [Programmers | ORACLE | SELECT 문제 풀이] 상위 n개의 레코드 - Solution with SubQuery </a><br>  
+- <a href="https://ajtwltsk.tistory.com/86"> [Programmers | Java |  탐욕법  문제 풀이] 구명보트 - Solution with Greedy </a><br>  
+- <a href="https://ajtwltsk.tistory.com/85"> [99클럽] 99클럽 코테 스터디 17일차 TIL + 탐욕법(Greedy) </a><br>  
+- <a href="https://ajtwltsk.tistory.com/84"> [LeetCode | Java | Greedy 문제 풀이] 1221. Split a String in Balanced Strings - Solution with Loop of forEach Statement </a><br>  
+- <a href="https://ajtwltsk.tistory.com/83"> [NBCAMP | JAVA 6기] 1주차 WIL + 스타터 노트 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/82"> [NBCAMP | JAVA 6기] 10일차 TIL + NOT LIKE, LOOP </a><br>  
 
