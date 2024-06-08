@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 50`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 50 + (MAX)`)  
 
+- <a href="https://ajtwltsk.tistory.com/116"> [Programmers | Java |  연습 문제 풀이] 자릿수 더하기 - Solution with Loop &amp; Arithmetic Operator </a><br>  
+- <a href="https://ajtwltsk.tistory.com/115"> [Programmers | ORACLE | JOIN 문제 풀이] 있었는데요 없었습니다 - Solution with INNER JOIN </a><br>  
+- <a href="https://ajtwltsk.tistory.com/114"> [NBCAMP | JAVA 6기] 12일차 TIL + LOOP, STREAM API, UPPER(), LIKE, ORDER BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/112"> [Programmers | ORACLE | String, Date  문제 풀이] 이름에 el이 들어가는 동물 찾기 - Solution with UPPER() &amp; LIKE &amp; ORDER BY </a><br>  
 - <a href="https://ajtwltsk.tistory.com/111"> [Programmers | Java |  연습문제  문제 풀이] 평균 구하기 - Solution with Loop 또는 Stream API </a><br>  
-- <a href="https://ajtwltsk.tistory.com/110"> [99클럽] 99클럽 코테 스터디 19일차 TIL + 동적계획법(Dynamic Programming) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/109"> [LeetCode | Java | Dynamic Programming  문제 풀이] 118. Pascal's Triangle - Solution with Recursive Function </a><br>  
-- <a href="https://ajtwltsk.tistory.com/108"> [Java 봐 | 자료구조] 리스트 中 ArrayList </a><br>  
-- <a href="https://ajtwltsk.tistory.com/107"> [Java 봐] String(문자열) </a><br>  
 
