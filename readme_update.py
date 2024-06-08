@@ -55,13 +55,17 @@ for i in feed['entries']:
     else :
         break
 
+maxOrnot = ""
+if (count == 50) :
+    maxOrnot = "(MAX)"
+    
 markdown_text += f"""
 <br>
 
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ {count}`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ {count} + {maxOrnot}`)  
 
 {markdown_text2}
 """ 
