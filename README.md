@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 50(MAX)`)  
 
-- <a href="https://ajtwltsk.tistory.com/116"> [Programmers | Java |  연습 문제 풀이] 자릿수 더하기 - Solution with Loop &amp; Arithmetic Operator </a><br>  
-- <a href="https://ajtwltsk.tistory.com/115"> [Programmers | ORACLE | JOIN 문제 풀이] 있었는데요 없었습니다 - Solution with INNER JOIN </a><br>  
-- <a href="https://ajtwltsk.tistory.com/114"> [NBCAMP | JAVA 6기] 12일차 TIL + LOOP, STREAM API, UPPER(), LIKE, ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/112"> [Programmers | ORACLE | String, Date  문제 풀이] 이름에 el이 들어가는 동물 찾기 - Solution with UPPER() &amp; LIKE &amp; ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/111"> [Programmers | Java |  연습문제  문제 풀이] 평균 구하기 - Solution with Loop 또는 Stream API </a><br>  
+- <a href="https://ajtwltsk.tistory.com/121"> [NBCAMP | JAVA 6기] 2주차 WIL + </a><br>  
+- <a href="https://ajtwltsk.tistory.com/120"> [99클럽] 99클럽 코테 스터디 20일차 TIL + 동적 계획법(Dynamic Programming) </a><br>  
+- <a href="https://ajtwltsk.tistory.com/119"> [LeetCode | Java | 동적 계획법  문제 풀이] 509. Fibonacci Number - Solution with Recursion </a><br>  
+- <a href="https://ajtwltsk.tistory.com/118"> [NBCAMP | JAVA 6기] 13일차 TIL + COUNT, IS NULL, 연산자, 완전탐색, JOIN </a><br>  
+- <a href="https://ajtwltsk.tistory.com/117"> [Programmers | ORACLE | IS NULL  문제 풀이] 나이 정보가 없는 회원 수 구하기 - Solution with COUNT &amp; IS NULL </a><br>  
 
