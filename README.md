@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 50(MAX)`)  
 
-- <a href="https://ajtwltsk.tistory.com/121"> [NBCAMP | JAVA 6기] 2주차 WIL + </a><br>  
-- <a href="https://ajtwltsk.tistory.com/120"> [99클럽] 99클럽 코테 스터디 20일차 TIL + 동적 계획법(Dynamic Programming) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/119"> [LeetCode | Java | 동적 계획법  문제 풀이] 509. Fibonacci Number - Solution with Recursion </a><br>  
-- <a href="https://ajtwltsk.tistory.com/118"> [NBCAMP | JAVA 6기] 13일차 TIL + COUNT, IS NULL, 연산자, 완전탐색, JOIN </a><br>  
-- <a href="https://ajtwltsk.tistory.com/117"> [Programmers | ORACLE | IS NULL  문제 풀이] 나이 정보가 없는 회원 수 구하기 - Solution with COUNT &amp; IS NULL </a><br>  
+- <a href="https://ajtwltsk.tistory.com/128"> [NBCAMP | JAVA 6기] 14일차 TIL + Loop &amp; Operator &amp; MAX &amp; JOIN </a><br>  
+- <a href="https://ajtwltsk.tistory.com/127"> [99클럽] 99클럽 코테 스터디 21일차 TIL + 동적 계획법 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/126"> [LeetCode | Java | 동적 계획법  문제 풀이] 1025. Divisor Game - Solution with Brainteaser </a><br>  
+- <a href="https://ajtwltsk.tistory.com/124"> [Programmers | SQL | 집계함 문제 풀이] 가장 비싼 상품 구하기 - Solution with MAX </a><br>  
+- <a href="https://ajtwltsk.tistory.com/123"> [Programmers | Java |  연습 문제 풀이] 약수의 합 - Solution with Loop &amp; Arithmetic Operator </a><br>  
 
