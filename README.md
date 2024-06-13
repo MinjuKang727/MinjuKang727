@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 50(MAX)`)  
 
-- <a href="https://ajtwltsk.tistory.com/139"> [LeetCode | Java | Binary Search 문제 풀이] 1351. Count Negative Numbers in a Sorted Matrix - Solution with Loop </a><br>  
-- <a href="https://ajtwltsk.tistory.com/138"> [NBCAMP | JAVA 6기] 16일차 TIL + NULL 처리, 배열 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/137"> [99클럽] 99클럽 코테 스터디 23일차 TIL + Array, Binary Search, Matrix </a><br>  
-- <a href="https://ajtwltsk.tistory.com/136"> [Programmers | Java | 연습 문제 풀이] x만큼 간격이 있는 n개의 숫자 - Solution with  Loop </a><br>  
-- <a href="https://ajtwltsk.tistory.com/135"> [Programmers | SQL | IS NULL  문제 풀이] 경기도에 위치한 식품창고 목록 출력하기 - Solution with (MySQL)IFNULL, (Oracle)NVL </a><br>  
+- <a href="https://ajtwltsk.tistory.com/147"> [LeetCode | Java | Graph  문제 풀이] 1791. Find Center of Star Graph - Solution with edge의 노드값 비교 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/146"> [99클럽] 99클럽 코테 스터디 24일차 TIL + 그래프(Graph) </a><br>  
+- <a href="https://ajtwltsk.tistory.com/145"> [NBCAMP | JAVA 6기] 17일차 TIL + 배열, 정렬, 형 변환, 연산자, CASE WHEN, LIKE </a><br>  
+- <a href="https://ajtwltsk.tistory.com/144"> [Programmers | SQL | SELECT  문제 풀이] 강원도에 위치한 생산공장 목록 출력하기 - Solution with LIKE </a><br>  
+- <a href="https://ajtwltsk.tistory.com/143"> [Programmers | Java | 연습문제 풀이] 자연수 뒤집어 배열로 만들기 - Solution with Loop &amp; Operator </a><br>  
 
