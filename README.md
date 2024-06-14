@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 50(MAX)`)  
 
-- <a href="https://ajtwltsk.tistory.com/147"> [LeetCode | Java | Graph  문제 풀이] 1791. Find Center of Star Graph - Solution with edge의 노드값 비교 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/146"> [99클럽] 99클럽 코테 스터디 24일차 TIL + 그래프(Graph) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/145"> [NBCAMP | JAVA 6기] 17일차 TIL + 배열, 정렬, 형 변환, 연산자, CASE WHEN, LIKE </a><br>  
-- <a href="https://ajtwltsk.tistory.com/144"> [Programmers | SQL | SELECT  문제 풀이] 강원도에 위치한 생산공장 목록 출력하기 - Solution with LIKE </a><br>  
-- <a href="https://ajtwltsk.tistory.com/143"> [Programmers | Java | 연습문제 풀이] 자연수 뒤집어 배열로 만들기 - Solution with Loop &amp; Operator </a><br>  
+- <a href="https://ajtwltsk.tistory.com/152"> [99클럽] 99클럽 코테 스터디 25일차 TIL + Array, Greedy, Sorting </a><br>  
+- <a href="https://ajtwltsk.tistory.com/151"> [LeetCode | Java | Greedy 문제 풀이] 2037. Minimum Number of Moves to Seat Everyone - Solution with Arrays.sort() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/150"> [NBCAMP | JAVA 6기] 18일차 TIL + 날짜 형식 변경, 배열 중복 제거, 배열 정렬 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/149"> [Programmers | SQL | String, Date 문제 풀이] DATETIME에서 DATE로 형 변환 - Solution with DATE_FORMAT 또는 TO_CHAR </a><br>  
+- <a href="https://ajtwltsk.tistory.com/148"> [Programmers | Java | 월간 코드 챌린지 시즌1  문제 풀이] 두 개 뽑아서 더하기 - Solution with Loop &amp; Stream API &amp; Sort </a><br>  
 
