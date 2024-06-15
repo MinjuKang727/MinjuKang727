@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 50(MAX)`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 45`)  
 
-- <a href="https://ajtwltsk.tistory.com/152"> [99클럽] 99클럽 코테 스터디 25일차 TIL + Array, Greedy, Sorting </a><br>  
-- <a href="https://ajtwltsk.tistory.com/151"> [LeetCode | Java | Greedy 문제 풀이] 2037. Minimum Number of Moves to Seat Everyone - Solution with Arrays.sort() </a><br>  
-- <a href="https://ajtwltsk.tistory.com/150"> [NBCAMP | JAVA 6기] 18일차 TIL + 날짜 형식 변경, 배열 중복 제거, 배열 정렬 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/149"> [Programmers | SQL | String, Date 문제 풀이] DATETIME에서 DATE로 형 변환 - Solution with DATE_FORMAT 또는 TO_CHAR </a><br>  
-- <a href="https://ajtwltsk.tistory.com/148"> [Programmers | Java | 월간 코드 챌린지 시즌1  문제 풀이] 두 개 뽑아서 더하기 - Solution with Loop &amp; Stream API &amp; Sort </a><br>  
+- <a href="https://ajtwltsk.tistory.com/157"> [NBCAMP | JAVA 6기] 19일차 TIL + Math.sqrt(), 날짜 형식 변경, IN, ORDER BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/156"> [99클럽] 99클럽 코테 스터디 26일차 TIL + Array </a><br>  
+- <a href="https://ajtwltsk.tistory.com/155"> [LeetCode | Java | Array 문제 풀이] 1470. Shuffle the Array - Solution with Array &amp; index </a><br>  
+- <a href="https://ajtwltsk.tistory.com/154"> [Programmers | SQL | SELECT 문제 풀이] 흉부외과 또는 일반외과 의사 목록 출력하기 - Solution with 날짜 형식 변경 &amp; IN &amp; ORDER BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/153"> [Programmers | Java | 연습문제 풀이] 정수 제곱근 판별 - Solution with Math.sqrt() </a><br>  
 
