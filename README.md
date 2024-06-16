@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 45`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 41`)  
 
-- <a href="https://ajtwltsk.tistory.com/157"> [NBCAMP | JAVA 6기] 19일차 TIL + Math.sqrt(), 날짜 형식 변경, IN, ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/156"> [99클럽] 99클럽 코테 스터디 26일차 TIL + Array </a><br>  
-- <a href="https://ajtwltsk.tistory.com/155"> [LeetCode | Java | Array 문제 풀이] 1470. Shuffle the Array - Solution with Array &amp; index </a><br>  
-- <a href="https://ajtwltsk.tistory.com/154"> [Programmers | SQL | SELECT 문제 풀이] 흉부외과 또는 일반외과 의사 목록 출력하기 - Solution with 날짜 형식 변경 &amp; IN &amp; ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/153"> [Programmers | Java | 연습문제 풀이] 정수 제곱근 판별 - Solution with Math.sqrt() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/163"> [NBCAMP | JAVA 6기] 3주차 WIL +  ❗⛱ </a><br>  
+- <a href="https://ajtwltsk.tistory.com/162"> [NBCAMP | JAVA 6기] 20일차 TIL + (SQL)집계함수, 중복 제거 (Java)Array, Counting, Math </a><br>  
+- <a href="https://ajtwltsk.tistory.com/161"> [Programmers | SQL | SUM, MAX, MIN 문제 풀이] 가격이 제일 비싼 식품의 정보 출력하기 - Solution with MAX(), SUBQUERY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/160"> [Programmers | Java | 연습문제 풀이] 정수 내림차순으로 배치하기 - Solution with Array </a><br>  
+- <a href="https://ajtwltsk.tistory.com/159"> [99클럽] 99클럽 코테 스터디 27일차 TIL + Array, HashTable, Math, Counting </a><br>  
 
