@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 41`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 39`)  
 
+- <a href="https://ajtwltsk.tistory.com/167"> [NBCAMP | JAVA 6기] 21일차 TIL + 반복문, 연산자, Boolean </a><br>  
+- <a href="https://ajtwltsk.tistory.com/166"> [Programmers | Java | 연습문제 풀이] 하샤드 수- Solution with Loop &amp; Arithmetic Operator &amp; Boolean </a><br>  
+- <a href="https://ajtwltsk.tistory.com/165"> [99클럽] 99클럽 코테 스터디 28일차 TIL + Array, String </a><br>  
+- <a href="https://ajtwltsk.tistory.com/164"> [LeetCode | Java | Array, String 문제 풀이] 2942. Find Words Containing Character - Solution with cotains() </a><br>  
 - <a href="https://ajtwltsk.tistory.com/163"> [NBCAMP | JAVA 6기] 3주차 WIL +  ❗⛱ </a><br>  
-- <a href="https://ajtwltsk.tistory.com/162"> [NBCAMP | JAVA 6기] 20일차 TIL + (SQL)집계함수, 중복 제거 (Java)Array, Counting, Math </a><br>  
-- <a href="https://ajtwltsk.tistory.com/161"> [Programmers | SQL | SUM, MAX, MIN 문제 풀이] 가격이 제일 비싼 식품의 정보 출력하기 - Solution with MAX(), SUBQUERY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/160"> [Programmers | Java | 연습문제 풀이] 정수 내림차순으로 배치하기 - Solution with Array </a><br>  
-- <a href="https://ajtwltsk.tistory.com/159"> [99클럽] 99클럽 코테 스터디 27일차 TIL + Array, HashTable, Math, Counting </a><br>  
 
