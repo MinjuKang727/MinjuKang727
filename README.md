@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 39`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 38`)  
 
+- <a href="https://ajtwltsk.tistory.com/171"> [99클럽] 99클럽 코테 스터디 29일차 TIL + Array, String </a><br>  
+- <a href="https://ajtwltsk.tistory.com/170"> [Programmers | Java | 연습문제 풀이] 두 정수 사이의 합 - Solution with Loop 또는 Math </a><br>  
+- <a href="https://ajtwltsk.tistory.com/169"> [LeetCode | Java | Array, String 문제 풀이] 1773. Count Items Matching a Rule - Solution with Loop </a><br>  
+- <a href="https://ajtwltsk.tistory.com/168"> [Programmers | SQL | IS NULL 문제 풀이] 이름이 없는 동물의 아이디 - Solution with IS NULL &amp; ORDER BY </a><br>  
 - <a href="https://ajtwltsk.tistory.com/167"> [NBCAMP | JAVA 6기] 21일차 TIL + 반복문, 연산자, Boolean </a><br>  
-- <a href="https://ajtwltsk.tistory.com/166"> [Programmers | Java | 연습문제 풀이] 하샤드 수- Solution with Loop &amp; Arithmetic Operator &amp; Boolean </a><br>  
-- <a href="https://ajtwltsk.tistory.com/165"> [99클럽] 99클럽 코테 스터디 28일차 TIL + Array, String </a><br>  
-- <a href="https://ajtwltsk.tistory.com/164"> [LeetCode | Java | Array, String 문제 풀이] 2942. Find Words Containing Character - Solution with cotains() </a><br>  
-- <a href="https://ajtwltsk.tistory.com/163"> [NBCAMP | JAVA 6기] 3주차 WIL +  ❗⛱ </a><br>  
 
