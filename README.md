@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 38`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 40`)  
 
+- <a href="https://ajtwltsk.tistory.com/175"> [Programmers | SQL | String, Date 문제 풀이] 중성화 여부 파악하기 - Solution with IF문 또는 CASE WHEN문 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/174"> [99클럽] 99클럽 코테 스터디 30일차 TIL + String, Array, 형 변환, 정렬 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/173"> [NBCAMP | JAVA 6기] 22일차 TIL + Loop, Math, COUNT(), TO_CHAR(), DATE_FORMAT() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/172"> [Programmers | SQL | SELECT 문제 풀이] 조건에 맞는 회원수 구하기 - Solution with COUNT() &amp; 날짜 형식 변경 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/171"> [99클럽] 99클럽 코테 스터디 29일차 TIL + Array, String </a><br>  
-- <a href="https://ajtwltsk.tistory.com/170"> [Programmers | Java | 연습문제 풀이] 두 정수 사이의 합 - Solution with Loop 또는 Math </a><br>  
-- <a href="https://ajtwltsk.tistory.com/169"> [LeetCode | Java | Array, String 문제 풀이] 1773. Count Items Matching a Rule - Solution with Loop </a><br>  
-- <a href="https://ajtwltsk.tistory.com/168"> [Programmers | SQL | IS NULL 문제 풀이] 이름이 없는 동물의 아이디 - Solution with IS NULL &amp; ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/167"> [NBCAMP | JAVA 6기] 21일차 TIL + 반복문, 연산자, Boolean </a><br>  
 
