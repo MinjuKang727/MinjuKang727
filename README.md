@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 36`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 33`)  
 
+- <a href="https://ajtwltsk.tistory.com/185"> [99클럽] 99클럽 코테 스터디 32일차 TIL + Array, Sorting </a><br>  
+- <a href="https://ajtwltsk.tistory.com/184"> [NBCAMP | JAVA 6기] 25일차 TIL + Array/ GROUP BY, COUNT(), ORDER BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/183"> [Programmers | Java | 연습문제 풀이] 나누어 떨어지는 숫자 배열 - Solution with Arrays.copyOf() 또는 Stream API </a><br>  
+- <a href="https://ajtwltsk.tistory.com/182"> [Programmers | SQL | GROUP BY 문제 풀이] 고양이와 개는 몇 마리 있을까 - Solution with GROUP BY &amp; COUNT() &amp; ORDER BY </a><br>  
 - <a href="https://ajtwltsk.tistory.com/181"> [99클럽] 99클럽 코테 스터디 31일차 TIL + Array, char, int, 형 변환 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/180"> [NBCAMP | JAVA 6기] 24일차 TIL + 반복문, 문자열 비교, 문자열 포맷팅/ SUBSTR(), COUNT(), GROUP BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/179"> [Programmers | Java | 연습문제 풀이] 서울에서 김서방 찾기 - Solution with Loop &amp; equals() &amp; String.format() </a><br>  
-- <a href="https://ajtwltsk.tistory.com/178"> [Programmers | SQL | String, Date 문제 풀이] 카테고리 별 상품 개수 구하기 - Solution with SUBSTR &amp; COUNT &amp; GROUP BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/177"> [NBCAMP | JAVA 6기] 23일차 TIL + 반복문, 재귀함수/ IF문, CASE WHEN 구문 </a><br>  
 
