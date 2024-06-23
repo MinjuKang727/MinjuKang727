@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 31`)  
 
+- <a href="https://ajtwltsk.tistory.com/190"> [99클럽] 99클럽 코테 스터디 34일차 TIL + Array, Stack, Queue, Simulation </a><br>  
+- <a href="https://ajtwltsk.tistory.com/189"> [LeetCode | Java | Array, Stack, Queue 문제 풀이] 1700. Number of Students Unable to Eat Lunch - Solution with Queue 또는 Counting </a><br>  
 - <a href="https://ajtwltsk.tistory.com/188"> [Programmers | Java | 월간 코드 챌린지 시즌2 문제 풀이] 음양 더하기 - Solution with Loop &amp; If-statement 또는 Stream API </a><br>  
 - <a href="https://ajtwltsk.tistory.com/187"> [99클럽] 99클럽 코테 스터디 33일차 TIL + Array, Binary Search, Sorting </a><br>  
 - <a href="https://ajtwltsk.tistory.com/186"> [LeetCode | Java | Array, Sorting 문제 풀이] 2089. Find Target Indices After Sorting Array - Solution with Loop 또는 Stream API </a><br>  
-- <a href="https://ajtwltsk.tistory.com/185"> [99클럽] 99클럽 코테 스터디 32일차 TIL + Array, Sorting </a><br>  
-- <a href="https://ajtwltsk.tistory.com/184"> [NBCAMP | JAVA 6기] 25일차 TIL + Array/ GROUP BY, COUNT(), ORDER BY </a><br>  
 
