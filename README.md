@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 31`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 32`)  
 
-- <a href="https://ajtwltsk.tistory.com/190"> [99클럽] 99클럽 코테 스터디 34일차 TIL + Array, Stack, Queue, Simulation </a><br>  
-- <a href="https://ajtwltsk.tistory.com/189"> [LeetCode | Java | Array, Stack, Queue 문제 풀이] 1700. Number of Students Unable to Eat Lunch - Solution with Queue 또는 Counting </a><br>  
-- <a href="https://ajtwltsk.tistory.com/188"> [Programmers | Java | 월간 코드 챌린지 시즌2 문제 풀이] 음양 더하기 - Solution with Loop &amp; If-statement 또는 Stream API </a><br>  
-- <a href="https://ajtwltsk.tistory.com/187"> [99클럽] 99클럽 코테 스터디 33일차 TIL + Array, Binary Search, Sorting </a><br>  
-- <a href="https://ajtwltsk.tistory.com/186"> [LeetCode | Java | Array, Sorting 문제 풀이] 2089. Find Target Indices After Sorting Array - Solution with Loop 또는 Stream API </a><br>  
+- <a href="https://ajtwltsk.tistory.com/198"> [NBCAMP | JAVA 6기] 28일차 TIL + 반복문, 조건문, 문자열, 날짜 형식 변환, 집계함수, NULL 처리, GROUP BY, 정렬 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/197"> [Programmers | SQL | SELECT 문제 풀이] 12세 이하인 여자 환자 목록 출력하기 - Solution with NVL() 또는 IFNULL() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/196"> [Programmers | SQL | GROUP BY 문제 풀이] 진료과별 총 예약 횟수 출력하기 - Solution with 날짜 형식 변경 &amp; COUNT &amp; GROUP BY &amp; ORDER BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/195"> [99클럽] 99클럽 코테 스터디 35일차 TIL + Class, Queue </a><br>  
+- <a href="https://ajtwltsk.tistory.com/194"> [LeetCode | Java | Queue 문제 풀이] 933. Number of Recent Calls - Solution with ArrayList &amp; Stream API </a><br>  
 
