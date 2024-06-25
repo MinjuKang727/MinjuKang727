@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 32`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 31`)  
 
+- <a href="https://ajtwltsk.tistory.com/202"> [NBCAMP | JAVA 6기] 29일차 TIL + ORDER BY, Array </a><br>  
+- <a href="https://ajtwltsk.tistory.com/201"> [99클럽] 99클럽 코테 스터디 36일차 TIL + 스택/큐 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/200"> [Programmers | SQL | SELECT 문제 풀이] 인기있는 아이스크림 - Solution with ORDER BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/199"> [Programmers | Java | 연습문제 풀이] 제일 작은 수 제거하기 - Solution with Array 또는 arraycopy 또는 Stream API </a><br>  
 - <a href="https://ajtwltsk.tistory.com/198"> [NBCAMP | JAVA 6기] 28일차 TIL + 반복문, 조건문, 문자열, 날짜 형식 변환, 집계함수, NULL 처리, GROUP BY, 정렬 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/197"> [Programmers | SQL | SELECT 문제 풀이] 12세 이하인 여자 환자 목록 출력하기 - Solution with NVL() 또는 IFNULL() </a><br>  
-- <a href="https://ajtwltsk.tistory.com/196"> [Programmers | SQL | GROUP BY 문제 풀이] 진료과별 총 예약 횟수 출력하기 - Solution with 날짜 형식 변경 &amp; COUNT &amp; GROUP BY &amp; ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/195"> [99클럽] 99클럽 코테 스터디 35일차 TIL + Class, Queue </a><br>  
-- <a href="https://ajtwltsk.tistory.com/194"> [LeetCode | Java | Queue 문제 풀이] 933. Number of Recent Calls - Solution with ArrayList &amp; Stream API </a><br>  
 
