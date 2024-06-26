@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 31`)  
 
+- <a href="https://ajtwltsk.tistory.com/206"> [NBCAMP | JAVA 6기] 30일차 TIL + String/ GROUP BY, LIKE, OR </a><br>  
+- <a href="https://ajtwltsk.tistory.com/205"> [Programmers | SQL | GROUP BY 문제 풀이] 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기 - Solution with LIKE, OR, COUNT(*) </a><br>  
+- <a href="https://ajtwltsk.tistory.com/204"> [Programmers | Java | 연습문제 풀이] 가운데 글자 가져오기 - Solution with substring </a><br>  
+- <a href="https://ajtwltsk.tistory.com/203"> [99클럽] 99클럽 코테 스터디 37일차 TIL + 스택/큐 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/202"> [NBCAMP | JAVA 6기] 29일차 TIL + ORDER BY, Array </a><br>  
-- <a href="https://ajtwltsk.tistory.com/201"> [99클럽] 99클럽 코테 스터디 36일차 TIL + 스택/큐 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/200"> [Programmers | SQL | SELECT 문제 풀이] 인기있는 아이스크림 - Solution with ORDER BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/199"> [Programmers | Java | 연습문제 풀이] 제일 작은 수 제거하기 - Solution with Array 또는 arraycopy 또는 Stream API </a><br>  
-- <a href="https://ajtwltsk.tistory.com/198"> [NBCAMP | JAVA 6기] 28일차 TIL + 반복문, 조건문, 문자열, 날짜 형식 변환, 집계함수, NULL 처리, GROUP BY, 정렬 </a><br>  
 
