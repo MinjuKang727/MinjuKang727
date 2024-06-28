@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 29`)  
 
+- <a href="https://ajtwltsk.tistory.com/214"> [NBCAMP | JAVA 6기] 32일차 TIL + Math/ GROUP BY, SUM </a><br>  
+- <a href="https://ajtwltsk.tistory.com/213"> [99클럽] 99클럽 코테 스터디 39일차 TIL + Array, Sorting, Heap </a><br>  
+- <a href="https://ajtwltsk.tistory.com/212"> [Programmers | SQL | GROUP BY 문제 풀이] 카테고리 별 도서 판매량 집계하기- Solution with GROUP BY &amp; SUM() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/211"> [Programmers | Java | 월간 코드 챌린지 시즌1 문제 풀이] 내적 - Solution with Loop &amp; Operator 또는 Stream API </a><br>  
 - <a href="https://ajtwltsk.tistory.com/210"> [NBCAMP | JAVA 6기] 31일차 TIL + String, JOIN, 차집합, 상위 N개 인스턴스 조회 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/209"> [99클럽] 99클럽 코테 스터디 38일차 TIL + Array, Heap(Priority Queue) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/208"> [Programmers | SQL | JOIN 문제 풀이] 오랜 기간 보호한 동물(1) - Solution with EXCLUSIVE LEFT JOIN &amp; ROWNUM 또는 LIMIT </a><br>  
-- <a href="https://ajtwltsk.tistory.com/207"> [Programmers | Java | 연습문제 풀이] 수박수박수박수박수박수? - Solution with repeat() &amp; 문자열 합치기 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/206"> [NBCAMP | JAVA 6기] 30일차 TIL + String/ GROUP BY, LIKE, OR </a><br>  
 
