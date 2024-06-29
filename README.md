@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 29`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 33`)  
 
-- <a href="https://ajtwltsk.tistory.com/214"> [NBCAMP | JAVA 6기] 32일차 TIL + Math/ GROUP BY, SUM </a><br>  
-- <a href="https://ajtwltsk.tistory.com/213"> [99클럽] 99클럽 코테 스터디 39일차 TIL + Array, Sorting, Heap </a><br>  
-- <a href="https://ajtwltsk.tistory.com/212"> [Programmers | SQL | GROUP BY 문제 풀이] 카테고리 별 도서 판매량 집계하기- Solution with GROUP BY &amp; SUM() </a><br>  
-- <a href="https://ajtwltsk.tistory.com/211"> [Programmers | Java | 월간 코드 챌린지 시즌1 문제 풀이] 내적 - Solution with Loop &amp; Operator 또는 Stream API </a><br>  
-- <a href="https://ajtwltsk.tistory.com/210"> [NBCAMP | JAVA 6기] 31일차 TIL + String, JOIN, 차집합, 상위 N개 인스턴스 조회 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/220"> [Programmers | Java | 연습문제 풀이] 문자열 내림차순으로 배치하기 - Solution with Soring &amp; Join </a><br>  
+- <a href="https://ajtwltsk.tistory.com/219"> [Programmers | Java | 연습문제 풀이] JadenCase 문자열 만들기 - Solution with toLowerCase() &amp; StringBuilder </a><br>  
+- <a href="https://ajtwltsk.tistory.com/218"> [NBCAMP | JAVA 6기] 33일차 TIL + Counting/ JOIN, GROUP BY, SUM </a><br>  
+- <a href="https://ajtwltsk.tistory.com/217"> [Programmers | SQL | JOIN 문제 풀이] 상품 별 오프라인 매출 구하기 - Solution with JOIN &amp; GROUP BY &amp; SUM </a><br>  
+- <a href="https://ajtwltsk.tistory.com/216"> [Programmers | Java | 월간 코드 챌린지 시즌2 문제 풀이] 약수의 개수와 덧셈 - Solution with Counting </a><br>  
 
