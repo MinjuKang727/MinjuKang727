@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 33`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 30`)  
 
 - <a href="https://ajtwltsk.tistory.com/220"> [Programmers | Java | 연습문제 풀이] 문자열 내림차순으로 배치하기 - Solution with Soring &amp; Join </a><br>  
 - <a href="https://ajtwltsk.tistory.com/219"> [Programmers | Java | 연습문제 풀이] JadenCase 문자열 만들기 - Solution with toLowerCase() &amp; StringBuilder </a><br>  
