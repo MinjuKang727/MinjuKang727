@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 25`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 24`)  
 
-- <a href="https://ajtwltsk.tistory.com/220"> [Programmers | Java | 연습문제 풀이] 문자열 내림차순으로 배치하기 - Solution with Soring &amp; Join </a><br>  
-- <a href="https://ajtwltsk.tistory.com/219"> [Programmers | Java | 연습문제 풀이] JadenCase 문자열 만들기 - Solution with toLowerCase() &amp; StringBuilder </a><br>  
-- <a href="https://ajtwltsk.tistory.com/218"> [NBCAMP | JAVA 6기] 33일차 TIL + Counting/ JOIN, GROUP BY, SUM </a><br>  
-- <a href="https://ajtwltsk.tistory.com/217"> [Programmers | SQL | JOIN 문제 풀이] 상품 별 오프라인 매출 구하기 - Solution with JOIN &amp; GROUP BY &amp; SUM </a><br>  
-- <a href="https://ajtwltsk.tistory.com/216"> [Programmers | Java | 월간 코드 챌린지 시즌2 문제 풀이] 약수의 개수와 덧셈 - Solution with Counting </a><br>  
+- <a href="https://ajtwltsk.tistory.com/225"> [Programmers | SQL | String, Date 문제 풀이] 오랜 기간 보호한 동물(2) - Solution with JOIN &amp; 날짜 차이 &amp; 상위 N개 인스턴스 조회 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/224"> [Programmers | SQL | JOIN 문제 풀이] 있었는데요 없었습니다 - Solution with JOIN &amp; DATETIME 비교 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/223"> [Programmers | Java | 연습문제 풀이] 행렬의 덧셈 - Solution with Loop 또는 IntStream </a><br>  
+- <a href="https://ajtwltsk.tistory.com/222"> [Programmers | Java | 연습문제 풀이] 문자열 다루기 기본 - Solution with length() &amp; char 또는 try-catch Statement </a><br>  
+- <a href="https://ajtwltsk.tistory.com/221"> [Programmers | Java | 위클리 챌린지] 부족한 금액 계산하기 - Solution with Operator &amp; Math </a><br>  
 
