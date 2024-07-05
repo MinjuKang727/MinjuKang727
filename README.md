@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 22`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 20`)  
 
+- <a href="https://ajtwltsk.tistory.com/234"> [NBCAMP | JAVA 6기] 39일차 TIL + Math/ JOIN, GROUP BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/233"> [Programmers | SQL | GROUP BY 문제 풀이] 성분으로 구분한 아이스크림 총 주문량 - Solution with JOIN &amp; GROUP BY </a><br>  
+- <a href="https://ajtwltsk.tistory.com/232"> [Programmers | Java | 연습문제 풀이] 최대공약수와 최소공배수 - Solution with Math </a><br>  
 - <a href="https://ajtwltsk.tistory.com/231"> [NBCAMP | JAVA 6기] 38일차 TIL + Scanner, String/ Date </a><br>  
 - <a href="https://ajtwltsk.tistory.com/230"> [Programmers | SQL | String, Date 문제 풀이] 조건별로 분류하여 주문상태 출력하기 - Solution with CASE WHEN &amp; TO_CHAR() 또는 DATE_FORMAT() </a><br>  
-- <a href="https://ajtwltsk.tistory.com/229"> [Programmers | Java | 연습문제 풀이] 직사각형 별찍기 - Solution with Loop 또는 repeat() 또는 StringBuilder </a><br>  
-- <a href="https://ajtwltsk.tistory.com/228"> [NBCAMP | JAVA 6기] 37일차 TIL + String, Sorting, char, Math, Exception, JOIN, DATE </a><br>  
-- <a href="https://ajtwltsk.tistory.com/227"> [Programmers | SQL | JOIN 문제 풀이] 조건에 맞는 도서와 저자 리스트 출력하기 - Solution with JOIN &amp; 날짜 형식 변경 </a><br>  
 
