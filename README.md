@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 20`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 21`)  
 
-- <a href="https://ajtwltsk.tistory.com/234"> [NBCAMP | JAVA 6기] 39일차 TIL + Math/ JOIN, GROUP BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/233"> [Programmers | SQL | GROUP BY 문제 풀이] 성분으로 구분한 아이스크림 총 주문량 - Solution with JOIN &amp; GROUP BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/232"> [Programmers | Java | 연습문제 풀이] 최대공약수와 최소공배수 - Solution with Math </a><br>  
-- <a href="https://ajtwltsk.tistory.com/231"> [NBCAMP | JAVA 6기] 38일차 TIL + Scanner, String/ Date </a><br>  
-- <a href="https://ajtwltsk.tistory.com/230"> [Programmers | SQL | String, Date 문제 풀이] 조건별로 분류하여 주문상태 출력하기 - Solution with CASE WHEN &amp; TO_CHAR() 또는 DATE_FORMAT() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/239"> [Programmers | SQL | SELECT 문제 풀이] 조건에 맞는 도서 리스트 출력하기 - Solution with TO_CHAR() 또는 DATE_FORMAT() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/238"> [Programmers | Java | 연습문제 풀이] 이상한 문자 만들기 - Solution with toLowerCase() &amp; char  비교 및 연산 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/237"> [NBCAMP | JAVA 6기] 40일차 TIL + Base, Operator/ String, IN </a><br>  
+- <a href="https://ajtwltsk.tistory.com/236"> [Programmers | SQL | String, Date 문제 풀이] 루시와 엘라 찾기 - Solution with IN </a><br>  
+- <a href="https://ajtwltsk.tistory.com/235"> [Programmers | Java | 월간 코드 챌린지 시즌1 문제 풀이] 3진법 뒤집기 - Solution with Loop </a><br>  
 
