@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 21`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 24`)  
 
-- <a href="https://ajtwltsk.tistory.com/239"> [Programmers | SQL | SELECT 문제 풀이] 조건에 맞는 도서 리스트 출력하기 - Solution with TO_CHAR() 또는 DATE_FORMAT() </a><br>  
-- <a href="https://ajtwltsk.tistory.com/238"> [Programmers | Java | 연습문제 풀이] 이상한 문자 만들기 - Solution with toLowerCase() &amp; char  비교 및 연산 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/237"> [NBCAMP | JAVA 6기] 40일차 TIL + Base, Operator/ String, IN </a><br>  
-- <a href="https://ajtwltsk.tistory.com/236"> [Programmers | SQL | String, Date 문제 풀이] 루시와 엘라 찾기 - Solution with IN </a><br>  
-- <a href="https://ajtwltsk.tistory.com/235"> [Programmers | Java | 월간 코드 챌린지 시즌1 문제 풀이] 3진법 뒤집기 - Solution with Loop </a><br>  
+- <a href="https://ajtwltsk.tistory.com/244"> [NBCAMP | JAVA 6기] 5주차 WIL + </a><br>  
+- <a href="https://ajtwltsk.tistory.com/243"> [NBCAMP | JAVA 6기] 42일차 TIL + ROUND(), AVG() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/242"> [Programmers | SQL | SELECT 문제 풀이] 평균 일일 대여 요금 구하기 - Solution with ROUND() &amp; AVG() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/241"> [NBCAMP | JAVA 6기] 41일차 TIL + String/ DATE </a><br>  
+- <a href="https://ajtwltsk.tistory.com/240"> [Programmers | Java | 연습문제 풀이] 삼총사 - Solution with 삼중 for문 </a><br>  
 
