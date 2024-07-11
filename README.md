@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 18`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 16`)  
 
+- <a href="https://ajtwltsk.tistory.com/250"> [NBCAMP | JAVA 6기] 45일차 TIL + String, 이차원 배열 / SELECT, JOIN </a><br>  
 - <a href="https://ajtwltsk.tistory.com/246"> [NBCAMP | JAVA 6기] 44일차 TIL + 완전 탐색, 정렬 / STRING, DATE, GROUP BY </a><br>  
 - <a href="https://ajtwltsk.tistory.com/245"> [NBCAMP | JAVA 6기] 43일차 TIL + char, Hash Set, Iterator / JOIN, GROUP BY </a><br>  
 - <a href="https://ajtwltsk.tistory.com/244"> [NBCAMP | JAVA 6기] 5주차 WIL + </a><br>  
 - <a href="https://ajtwltsk.tistory.com/243"> [NBCAMP | JAVA 6기] 42일차 TIL + ROUND(), AVG() </a><br>  
-- <a href="https://ajtwltsk.tistory.com/242"> [Programmers | SQL | SELECT 문제 풀이] 평균 일일 대여 요금 구하기 - Solution with ROUND() &amp; AVG() </a><br>  
 
