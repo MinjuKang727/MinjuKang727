@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 12`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 9`)  
 
+- <a href="https://ajtwltsk.tistory.com/254"> [NBCAMP | JAVA 6기] 49일차 TIL + Queue, Brute Force / DISTINCT, IN, WHERE절 서브쿼리, MAX() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/253"> [NBCAMP | JAVA 6기] 48일차 TIL + Sorting, Hash Map / GROUP BY, SELECT </a><br>  
 - <a href="https://ajtwltsk.tistory.com/252"> [NBCAMP | JAVA 6기] 47일차 TIL + Sorting, HashMap / SELECT </a><br>  
 - <a href="https://ajtwltsk.tistory.com/251"> [NBCAMP | JAVA 6기] 46일차 TIL + String, Casting, Arrays, Math / JOIN </a><br>  
 - <a href="https://ajtwltsk.tistory.com/250"> [NBCAMP | JAVA 6기] 45일차 TIL + String, 이차원 배열 / SELECT, JOIN </a><br>  
-- <a href="https://ajtwltsk.tistory.com/246"> [NBCAMP | JAVA 6기] 44일차 TIL + 완전 탐색, 정렬 / STRING, DATE, GROUP BY </a><br>  
-- <a href="https://ajtwltsk.tistory.com/245"> [NBCAMP | JAVA 6기] 43일차 TIL + char, Hash Set, Iterator / JOIN, GROUP BY </a><br>  
 
