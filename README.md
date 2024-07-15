@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 9`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 7`)  
 
 - <a href="https://ajtwltsk.tistory.com/254"> [NBCAMP | JAVA 6기] 49일차 TIL + Queue, Brute Force / DISTINCT, IN, WHERE절 서브쿼리, MAX() </a><br>  
 - <a href="https://ajtwltsk.tistory.com/253"> [NBCAMP | JAVA 6기] 48일차 TIL + Sorting, Hash Map / GROUP BY, SELECT </a><br>  
