@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 5`)  
 
 - <a href="https://ajtwltsk.tistory.com/268"> [NBCAMP | Spring 6기] 12일차 TIL + Sorting, Binary Search / JOIN, GROUP BY, NULL </a><br>  
 - <a href="https://ajtwltsk.tistory.com/267"> [NBCAMP | Spring 6기] 11일차 TIL + Queue, Algorithm Complexcity / JOIN, STRING, DATE, GROUP BY </a><br>  
