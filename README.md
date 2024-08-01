@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 7`)  
 
+- <a href="https://ajtwltsk.tistory.com/272"> [NBCAMP | Spring 6기] 17일차 TIL + String, HashMap / 서브쿼리﻿, Group by, String </a><br>  
 - <a href="https://ajtwltsk.tistory.com/271"> [NBCAMP | Spring 6기] 16일차 TIL + Greedy, 완전탐색 / PIVOT TABLE, ﻿JOIN, GROUP BY </a><br>  
 - <a href="https://ajtwltsk.tistory.com/270"> [NBCAMP | Spring 6기] 15일차 TIL + Stack, Greedy / JOIN, GROUP BY , 서브쿼리 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/269"> [NBCAMP | Spring 6기] 13~14일차 TIL + Queue, HashMap, LinkedList, Regex, Intersection / String, Date </a><br>  
 - <a href="https://ajtwltsk.tistory.com/268"> [NBCAMP | Spring 6기] 12일차 TIL + Sorting, Binary Search / JOIN, GROUP BY, NULL </a><br>  
-- <a href="https://ajtwltsk.tistory.com/267"> [NBCAMP | Spring 6기] 11일차 TIL + Queue, Algorithm Complexcity / JOIN, STRING, DATE, GROUP BY </a><br>  
 
