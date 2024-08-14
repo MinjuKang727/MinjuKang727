@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
 
+- <a href="https://ajtwltsk.tistory.com/282"> [NBCAMP | Spring 6기] 28일차 TIL + 완전탐색 / UNION </a><br>  
 - <a href="https://ajtwltsk.tistory.com/281"> [NBCAMP | Spring 6기] 27일차 TIL + Sorting, XOR, String, Queue / SubQuery, JOIN, GROUP BY </a><br>  
 - <a href="https://ajtwltsk.tistory.com/280"> [NBCAMP | Spring 6기] 26일차 TIL + String, Sorting / JOIN, 조건문 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/279"> [NBCAMP | Spring 6기] 25일차 TIL + 알고리즘 복잡도, Queue / GROUP BY, JOIN </a><br>  
 - <a href="https://ajtwltsk.tistory.com/278"> [NBCAMP | Spring 6기] 24일차 TIL + GROUP BY, JOIN, UNION ALL, WITH </a><br>  
-- <a href="https://ajtwltsk.tistory.com/277"> [NBCAMP | Spring 6기] 23일차 TIL + 알고리즘 복잡도, Hash Map / GROUP BY, JOIN, DATE, 서브쿼리 </a><br>  
 
