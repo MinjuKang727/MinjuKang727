@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 5`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
 
+- <a href="https://ajtwltsk.tistory.com/284"> [NBCAMP | Spring 6기] 30일차 TIL + Graph, Math / ORDER BY, UNION ALL </a><br>  
+- <a href="https://ajtwltsk.tistory.com/283"> [NBCAMP | Spring 6기] 29일차 TIL + 완전 탐색, Math / JOIN, NULL </a><br>  
 - <a href="https://ajtwltsk.tistory.com/282"> [NBCAMP | Spring 6기] 28일차 TIL + 완전탐색 / UNION </a><br>  
 - <a href="https://ajtwltsk.tistory.com/281"> [NBCAMP | Spring 6기] 27일차 TIL + Sorting, XOR, String, Queue / SubQuery, JOIN, GROUP BY </a><br>  
 - <a href="https://ajtwltsk.tistory.com/280"> [NBCAMP | Spring 6기] 26일차 TIL + String, Sorting / JOIN, 조건문 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/279"> [NBCAMP | Spring 6기] 25일차 TIL + 알고리즘 복잡도, Queue / GROUP BY, JOIN </a><br>  
-- <a href="https://ajtwltsk.tistory.com/278"> [NBCAMP | Spring 6기] 24일차 TIL + GROUP BY, JOIN, UNION ALL, WITH </a><br>  
 
