@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 8`)  
 
+- <a href="https://ajtwltsk.tistory.com/291"> [NBCAMP | Spring 6기] 36일차 TIL + 가중치가 있는 최단 경로 구하기, 배열 / String, LIKE </a><br>  
+- <a href="https://ajtwltsk.tistory.com/290"> [NBCAMP | Spring 6기] 35일차 TIL + Sorting, Array, Hash Set / String </a><br>  
 - <a href="https://ajtwltsk.tistory.com/289"> [NBCAMP | Spring 6기] 34일차 TIL + Queue / DENSE_RANK() </a><br>  
 - <a href="https://ajtwltsk.tistory.com/288"> [NBCAMP | Spring 6기] 33일차 TIL + 부분 수열, 스택 / 서브쿼리 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/286"> [NBCAMP | Spring 6기] 32일차 TIL + 투 포인터, Hash Map, Sorting / UNION ALL, LIMIT, ROWNUM </a><br>  
-- <a href="https://ajtwltsk.tistory.com/285"> [NBCAMP | Spring 6기] 31일차 TIL + 탐욕법, BigInteger / Date, Group by, 서브쿼리 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/284"> [NBCAMP | Spring 6기] 30일차 TIL + Graph, Math / ORDER BY, UNION ALL </a><br>  
 
