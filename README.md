@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 8`)  
 
-- <a href="https://ajtwltsk.tistory.com/293"> [NBCAMP | Spring 6기] 38일차 TIL + Two Pointer, Array / max(), rank() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/294"> [NBCAMP | Spring 6기] 39일차 TIL + 완전탐색 / STRING, GROUP_CONCAT(), LISTAGG() WITHIN GROUP() </a><br>  
+- <a href="https://ajtwltsk.tistory.com/293"> [NBCAMP | Spring 6기] 38일차 TIL + Two Pointer, Array / MAX(), RANK() </a><br>  
 - <a href="https://ajtwltsk.tistory.com/292"> [NBCAMP | Spring 6기] 37일차 TIL + Array, Math / DELETE </a><br>  
 - <a href="https://ajtwltsk.tistory.com/291"> [NBCAMP | Spring 6기] 36일차 TIL + 가중치가 있는 최단 경로 구하기, 배열 / String, LIKE </a><br>  
 - <a href="https://ajtwltsk.tistory.com/290"> [NBCAMP | Spring 6기] 35일차 TIL + Sorting, Array, Hash Set / String </a><br>  
-- <a href="https://ajtwltsk.tistory.com/289"> [NBCAMP | Spring 6기] 34일차 TIL + Queue / DENSE_RANK() </a><br>  
 
