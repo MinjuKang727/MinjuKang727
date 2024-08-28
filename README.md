@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 8`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 7`)  
 
 - <a href="https://ajtwltsk.tistory.com/296"> [NBCAMP | Spring 6기] 41일차 TIL + TYPE / REGEXP() / FILTER, JWT, Entity, RELATION </a><br>  
 - <a href="https://ajtwltsk.tistory.com/295"> [NBCAMP | Spring 6기] 40일차 TIL + HashMap, Algorithm Complexity / JOIN, GROUP BY, 집계함수,﻿ DATE </a><br>  
