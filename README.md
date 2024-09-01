@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 5`)  
 
 - <a href="https://ajtwltsk.tistory.com/299"> [NBCAMP | Spring 6기] 44일차 TIL + 정적 팩토리 메서드, 생성자 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/298"> [NBCAMP | Spring 6기] 43일차 TIL + JSON, XML </a><br>  
