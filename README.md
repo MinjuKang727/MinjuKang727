@@ -32,10 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 3`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 7`)  
 
-- <a href="https://ajtwltsk.tistory.com/300"> [NBCAMP | Spring 6기] 45일차 TIL + REST API, 관심사 분리, RDBMS, NoSQL </a><br>  
-- <a href="https://ajtwltsk.tistory.com/299"> [NBCAMP | Spring 6기] 44일차 TIL + 정적 팩토리 메서드, 생성자 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/298"> [NBCAMP | Spring 6기] 43일차 TIL + JSON, XML </a><br>  
-- <a href="https://ajtwltsk.tistory.com/297"> [NBCAMP | Spring 6기] 42일차 TIL + OOP, JPA, FetchType, ddl-auto </a><br>  
+- <a href="https://ajtwltsk.tistory.com/306"> [내일배움캠프 - Spring 숙련주차 팀 프로젝트] 뉴스피드 프로젝트 KPT 회고 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/305"> [NBCAMP | Spring 6기] 52일차 TIL + 스키마 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/304"> [NBCAMP | Spring 6기] 51일차 TIL + 데이터베이스, 정규화 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/303"> [NBCAMP | Spring 6기] 50일차 TIL + 예외 처리 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/302"> [NBCAMP | Spring 6기] 49일차 TIL + JWT, Session </a><br>  
 
