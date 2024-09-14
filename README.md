@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 11`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 7`)  
 
+- <a href="https://ajtwltsk.tistory.com/313"> [NBCAMP | Spring 6기] 59일차 TIL + Transaction, 동시성 제어, Rollback, Lock </a><br>  
+- <a href="https://ajtwltsk.tistory.com/312"> [NBCAMP | Spring 6기] 58일차 TIL + Test Code, Transaction Isolation </a><br>  
 - <a href="https://ajtwltsk.tistory.com/311"> [NBCAMP | Spring 6기] 57일차 TIL + AOP, SQL Injection, Test Code </a><br>  
 - <a href="https://ajtwltsk.tistory.com/310"> [NBCAMP | Spring 6기] 56일차 TIL + JOIN, TEST, AOP </a><br>  
 - <a href="https://ajtwltsk.tistory.com/309"> [NBCAMP | Spring 6기] 55일차 TIL + Index, Scheduler, Kakao Login </a><br>  
-- <a href="https://ajtwltsk.tistory.com/308"> [NBCAMP | Spring 6기] 54일차 TIL + 데이터 수신, DTO, ENTITY, VO </a><br>  
-- <a href="https://ajtwltsk.tistory.com/307"> [NBCAMP | Spring 6기] 53일차 TIL + HttpStatus, Unchecked Exception, Setter </a><br>  
 
