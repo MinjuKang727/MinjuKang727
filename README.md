@@ -34,7 +34,7 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 2`)  
 
+- <a href="https://ajtwltsk.tistory.com/314"> [NBCAMP | Spring 6기] 60일차 TIL + 싱글톤 패턴 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/313"> [NBCAMP | Spring 6기] 59일차 TIL + Transaction, 동시성 제어, Rollback, Lock </a><br>  
 - <a href="https://ajtwltsk.tistory.com/312"> [NBCAMP | Spring 6기] 58일차 TIL + Test Code, Transaction Isolation </a><br>  
-- <a href="https://ajtwltsk.tistory.com/311"> [NBCAMP | Spring 6기] 57일차 TIL + AOP, SQL Injection, Test Code </a><br>  
 
