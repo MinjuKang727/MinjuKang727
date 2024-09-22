@@ -32,9 +32,8 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 2`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 1`)  
 
 - <a href="https://ajtwltsk.tistory.com/314"> [NBCAMP | Spring 6기] 60일차 TIL + 싱글톤 패턴 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/313"> [NBCAMP | Spring 6기] 59일차 TIL + Transaction, 동시성 제어, Rollback, Lock </a><br>  
-- <a href="https://ajtwltsk.tistory.com/312"> [NBCAMP | Spring 6기] 58일차 TIL + Test Code, Transaction Isolation </a><br>  
 
