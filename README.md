@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 5`)  
 
+- <a href="https://ajtwltsk.tistory.com/319"> [NBCAMP | Spring 6기] 65일차 TIL + JDBC, 추상 팩토리 패턴 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/318"> [NBCAMP | Spring 6기] 64일차 TIL + 반복자 패턴(Iterator Pattern) </a><br>  
 - <a href="https://ajtwltsk.tistory.com/317"> [NBCAMP | Spring 6기] 63일차 TIL + 데코레이터 패턴 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/316"> [NBCAMP | Spring 6기] 62일차 TIL + 프록시 패턴 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/315"> [NBCAMP | Spring 6기] 61일차 TIL + 옵저버 패턴, 빌더 패턴 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/314"> [NBCAMP | Spring 6기] 60일차 TIL + 싱글톤 패턴 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/313"> [NBCAMP | Spring 6기] 59일차 TIL + Transaction, 동시성 제어, Rollback, Lock </a><br>  
 
