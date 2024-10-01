@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
 
+- <a href="https://ajtwltsk.tistory.com/321"> [NBCAMP | Spring 6기] 70일차 TIL + JPA, Casecade, orphanRemoval, Unit Test, Integration Test, Blocking I/O, Non Blocking I/O </a><br>  
 - <a href="https://ajtwltsk.tistory.com/320"> [NBCAMP | Spring 6기] 66일차 TIL + DNS, JDBC </a><br>  
 - <a href="https://ajtwltsk.tistory.com/319"> [NBCAMP | Spring 6기] 65일차 TIL + JDBC, 추상 팩토리 패턴 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/318"> [NBCAMP | Spring 6기] 64일차 TIL + 반복자 패턴(Iterator Pattern) </a><br>  
 - <a href="https://ajtwltsk.tistory.com/317"> [NBCAMP | Spring 6기] 63일차 TIL + 데코레이터 패턴 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/316"> [NBCAMP | Spring 6기] 62일차 TIL + 프록시 패턴 </a><br>  
 
