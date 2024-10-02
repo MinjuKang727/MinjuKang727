@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 5`)  
 
 - <a href="https://ajtwltsk.tistory.com/321"> [NBCAMP | Spring 6기] 70일차 TIL + JPA, Casecade, orphanRemoval, Unit Test, Integration Test, Blocking I/O, Non Blocking I/O </a><br>  
 - <a href="https://ajtwltsk.tistory.com/320"> [NBCAMP | Spring 6기] 66일차 TIL + DNS, JDBC </a><br>  
