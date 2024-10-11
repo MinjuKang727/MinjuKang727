@@ -32,10 +32,9 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 3`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 2`)  
 
 - <a href="https://ajtwltsk.tistory.com/325"> [NBCAMP | Spring 6기] 74일차 TIL + 2차 모의 면접 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/324"> [NBCAMP | Spring 6기] 73일차 TIL + 모의 면접 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/323"> [NBCAMP | Spring 6기] 72일차 TIL + OSI 7계층, 트랜잭션 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/322"> [NBCAMP | Spring 6기] 71일차 TIL + 트랜잭션 </a><br>  
 
