@@ -32,8 +32,10 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 2`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`)  
 
+- <a href="https://ajtwltsk.tistory.com/328"> [NBCAMP | Spring 6기] 79일차 TIL + CI/CD </a><br>  
+- <a href="https://ajtwltsk.tistory.com/327"> [NBCAMP | Spring 6기] 78일차 TIL + HTTP, HTTPS </a><br>  
 - <a href="https://ajtwltsk.tistory.com/326"> [내일배움캠프 - 주특기 플러스 심화 주차 개인 과제] 트러블 슈팅 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/325"> [NBCAMP | Spring 6기] 74일차 TIL + 2차 모의 면접 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/324"> [NBCAMP | Spring 6기] 73일차 TIL + 모의 면접 </a><br>  
