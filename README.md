@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`)  
 
+- <a href="https://ajtwltsk.tistory.com/330"> [NBCAMP | Spring 6기] 주특기 플러스 주차 - Trello 프로젝트 : 내일lo KPT 회고 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/329"> [NBCAMP | Spring 6기] 80일차 TIL + 자바 컴파일 과정, 팀 프로젝트 트러블 슈팅 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/328"> [NBCAMP | Spring 6기] 79일차 TIL + CI/CD </a><br>  
 - <a href="https://ajtwltsk.tistory.com/327"> [NBCAMP | Spring 6기] 78일차 TIL + HTTP, HTTPS </a><br>  
 - <a href="https://ajtwltsk.tistory.com/326"> [내일배움캠프 - 주특기 플러스 심화 주차 개인 과제] 트러블 슈팅 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/325"> [NBCAMP | Spring 6기] 74일차 TIL + 2차 모의 면접 </a><br>  
 
