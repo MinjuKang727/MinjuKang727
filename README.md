@@ -32,8 +32,9 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 2`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 3`)  
 
+- <a href="https://ajtwltsk.tistory.com/337"> [Programmers | Java | 연습문제 풀이] 주식가격 - Solution with Queue </a><br>  
 - <a href="https://ajtwltsk.tistory.com/336"> [Programmers | Java | 연습문제 풀이] 베스트앨범 - Solution with HashMap &amp; 정렬 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/335"> [Programmers | Java | 연습문제 풀이] 동영상 재생기- Solution with Stream.reduce() &amp; 조건문 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/333"> [NBCAMP | Spring 6기] 83일차 TIL + 자바 컬렉션 프레임워크, 인가, 커스텀 어노테이션, @PreAuthorize </a><br>  
