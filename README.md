@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 8`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 7`)  
 
 - <a href="https://ajtwltsk.tistory.com/347"> [99클럽 5기 | 자바 미들러] 3일차 TIL + 정렬, 이진 탐색 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/346"> [백준 | Java] 11663번 선분 위의 점 </a><br>  
