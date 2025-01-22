@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 7`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 11`)  
 
-- <a href="https://ajtwltsk.tistory.com/347"> [99클럽 5기 | 자바 미들러] 3일차 TIL + 정렬, 이진 탐색 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/346"> [백준 | Java] 11663번 선분 위의 점 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/345"> [백준 | Java] 2675번 문자열 반복 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/344"> [99클럽 5기] Day02 TIL - 이진탐색 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/343"> [백준 | Java] 11719번 그대로 출력하기 2 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/353"> [백준 | Java] 15829번 Hashing </a><br>  
+- <a href="https://ajtwltsk.tistory.com/352"> [백준 | Java] 1260번 DFS와 BFS </a><br>  
+- <a href="https://ajtwltsk.tistory.com/351"> 깊이 우선 탐색(DFS; Depth-First Search) </a><br>  
+- <a href="https://ajtwltsk.tistory.com/350"> 너비 우선 탐색(BFS; Breadth-First Search) </a><br>  
+- <a href="https://ajtwltsk.tistory.com/349"> [백준 | Java] 27160번 할리갈리 </a><br>  
 
