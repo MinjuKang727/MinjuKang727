@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 11`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 13`)  
 
-- <a href="https://ajtwltsk.tistory.com/353"> [백준 | Java] 15829번 Hashing </a><br>  
-- <a href="https://ajtwltsk.tistory.com/352"> [백준 | Java] 1260번 DFS와 BFS </a><br>  
-- <a href="https://ajtwltsk.tistory.com/351"> 깊이 우선 탐색(DFS; Depth-First Search) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/350"> 너비 우선 탐색(BFS; Breadth-First Search) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/349"> [백준 | Java] 27160번 할리갈리 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/358"> [백준 | Java] 32978번 아 맞다 마늘 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/357"> [99클럽 5기] Day8 TIL - DFS </a><br>  
+- <a href="https://ajtwltsk.tistory.com/356"> [백준 | Java] 2667번 단지번호붙이기 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/355"> [백준 | Java] 1697번 숨바꼭질 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/354"> [99클럽 5기] Day7 TIL - 자료형, BFS, DFS </a><br>  
 
