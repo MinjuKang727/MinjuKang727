@@ -34,9 +34,9 @@
 ###  I'm Super Junior
   > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 13`)  
 
+- <a href="https://ajtwltsk.tistory.com/360"> [백준 | Java] 1707번 이분 그래프 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/359"> [프로그래머스 | Java] 양과 늑대 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/358"> [백준 | Java] 32978번 아 맞다 마늘 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/357"> [99클럽 5기] Day8 TIL - DFS </a><br>  
 - <a href="https://ajtwltsk.tistory.com/356"> [백준 | Java] 2667번 단지번호붙이기 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/355"> [백준 | Java] 1697번 숨바꼭질 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/354"> [99클럽 5기] Day7 TIL - 자료형, BFS, DFS </a><br>  
 
