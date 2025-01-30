@@ -32,7 +32,7 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 11`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 7`)  
 
 - <a href="https://ajtwltsk.tistory.com/364"> [백준 | Java] 2490번 윷놀이 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/363"> [백준 | Java] 2573번 빙산 </a><br>  
