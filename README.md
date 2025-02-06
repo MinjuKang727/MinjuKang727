@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 4`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 6`)  
 
+- <a href="https://ajtwltsk.tistory.com/370"> [백준 | Java] 2529번 부등호 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/369"> [백준 | Java] 1051번 숫자 정사각형 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/368"> [99클럽 5기] Day11 TIL - 브루트포스 알고리즘, 스택 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/367"> [백준 | Java] 1018번 체스판 다시 칠하기 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/366"> [백준 | Java] 10828번 스택 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/365"> [백준 | Java] 12425번 윷놀이(Small) </a><br>  
-- <a href="https://ajtwltsk.tistory.com/364"> [백준 | Java] 2490번 윷놀이 </a><br>  
 
