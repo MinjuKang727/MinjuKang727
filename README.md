@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 9`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 15`)  
 
-- <a href="https://ajtwltsk.tistory.com/373"> [백준 | Java] 17825번 주사위 윷놀이 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/372"> [99클럽 5기] Day13 TIL - Deque, Brute Force, Greedy </a><br>  
-- <a href="https://ajtwltsk.tistory.com/371"> [백준 | Java] 10845번 큐 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/370"> [백준 | Java] 2529번 부등호 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/369"> [백준 | Java] 1051번 숫자 정사각형 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/379"> [99클럽 5기] Day15 TIL - Stack, Brute Force </a><br>  
+- <a href="https://ajtwltsk.tistory.com/378"> [백준 | Java] 4949번 균형잡힌 세상 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/377"> [백준 | Java] 15686번 치킨 배달 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/376"> [99클럽 5기] Day14 TIL - Queue, Brute Force </a><br>  
+- <a href="https://ajtwltsk.tistory.com/375"> [백준 | Java] 26043번 식당 메뉴 </a><br>  
 
