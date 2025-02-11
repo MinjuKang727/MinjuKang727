@@ -32,11 +32,11 @@
 <img src="https://github.com/MinjuKang727/MinjuKang727/assets/108849480/0ac49170-7c8c-4c99-b0e5-86c414fc591c" alt="tistory-icon_IamSuperJunior" width="32px" align="left">
 
 ###  I'm Super Junior
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 15`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 14`)  
 
+- <a href="https://ajtwltsk.tistory.com/382"> [99클럽 5기] Day16 TIL - Heap, Greedy Algorithm, Math </a><br>  
+- <a href="https://ajtwltsk.tistory.com/381"> [프로그래머스 | Java] 더 맵게 </a><br>  
+- <a href="https://ajtwltsk.tistory.com/380"> [백준 | Java] 27961번 고양이는 많을수록 좋다 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/379"> [99클럽 5기] Day15 TIL - Stack, Brute Force </a><br>  
 - <a href="https://ajtwltsk.tistory.com/378"> [백준 | Java] 4949번 균형잡힌 세상 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/377"> [백준 | Java] 15686번 치킨 배달 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/376"> [99클럽 5기] Day14 TIL - Queue, Brute Force </a><br>  
-- <a href="https://ajtwltsk.tistory.com/375"> [백준 | Java] 26043번 식당 메뉴 </a><br>  
 
