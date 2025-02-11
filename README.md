@@ -1,5 +1,6 @@
-# 호기심 많은 개발자 강민주입니다! 🐱‍🏍
-  > 백엔드 개발자가 되기 위해 오늘도 열심히 공부중입니다.
+
+# I'm Super Junior! 🐱‍🏍
+  > This is Minju-Kang's GitHub, who wants to be Super Junior.
 
 <br>
 
@@ -20,6 +21,7 @@
 </div>
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjukang727" >
 <img src="https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical">
 
 <br><br>
