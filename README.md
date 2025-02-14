@@ -182,7 +182,7 @@
 <h3><a href="https://ajtwltsk.tistory.com/">I'm Super Junior</a></h3> 
 </div>
 
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 13`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 10`)  
 
 - <a href="https://ajtwltsk.tistory.com/383"> [백준 | Java] 11399번 ATM </a><br>  
 - <a href="https://ajtwltsk.tistory.com/382"> [99클럽 5기] Day16 TIL - Heap, Greedy Algorithm, Math </a><br>  
