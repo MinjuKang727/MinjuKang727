@@ -182,11 +182,11 @@
 <h3><a href="https://ajtwltsk.tistory.com/">I'm Super Junior</a></h3> 
 </div>
 
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 8`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 9`)  
 
+- <a href="https://ajtwltsk.tistory.com/391"> [99클럽 5기] Day22 TIL - Dynamic Programming, Sort </a><br>  
+- <a href="https://ajtwltsk.tistory.com/390"> [백준 | Java] 18870번 좌표 압축 - Sort </a><br>  
+- <a href="https://ajtwltsk.tistory.com/389"> [백준 | Java] 11053번 가장 긴 증가하는 부분 수열 - Dynamic Programming </a><br>  
 - <a href="https://ajtwltsk.tistory.com/388"> [99클럽 5기] Day21 TIL - String, Sort, Map, Dynamic Programming </a><br>  
 - <a href="https://ajtwltsk.tistory.com/387"> [백준 | Java] 1003번 피보나치 함수 - Dynamic Programming </a><br>  
-- <a href="https://ajtwltsk.tistory.com/386"> [백준 | Java] 20291번 파일 정리 - String, Sort, Map </a><br>  
-- <a href="https://ajtwltsk.tistory.com/385"> [백준 | Java] 19598번 최소 회의실 개수 - Greedy, PriorityQueue </a><br>  
-- <a href="https://ajtwltsk.tistory.com/384"> [백준 | Java] 신입 사원 - Greedy, Sort </a><br>  
 
