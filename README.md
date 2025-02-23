@@ -182,7 +182,7 @@
 <h3><a href="https://ajtwltsk.tistory.com/">I'm Super Junior</a></h3> 
 </div>
 
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 11`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 10`)  
 
 - <a href="https://ajtwltsk.tistory.com/395"> [백준 | Java] 31860번 열심히 일하는 중 - Priority Queue </a><br>  
 - <a href="https://ajtwltsk.tistory.com/394"> [백준 | Java] 1351번 무한 수열 - Dynamic Programming, Map </a><br>  
