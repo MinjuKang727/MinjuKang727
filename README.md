@@ -182,7 +182,8 @@
 <h3><a href="https://ajtwltsk.tistory.com/">I'm Super Junior</a></h3> 
 </div>
 
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 0`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 1`)  
 
+- <a href="https://ajtwltsk.tistory.com/397"> [CS 지식] 스트림(Stream) </a><br>  
 - <a href="https://ajtwltsk.tistory.com/396"> 99클럽 5기 자바 미들러 수료!(후기) </a><br>  
 
