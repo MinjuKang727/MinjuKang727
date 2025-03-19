@@ -182,8 +182,7 @@
 <h3><a href="https://ajtwltsk.tistory.com/">I'm Super Junior</a></h3> 
 </div>
 
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 1`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 0`)  
 
 - <a href="https://ajtwltsk.tistory.com/398"> [백준 | Java] 1074번 Z - 분할 정복, 재귀 </a><br>  
-- <a href="https://ajtwltsk.tistory.com/397"> [CS 지식] 스트림(Stream) </a><br>  
 
