@@ -182,8 +182,9 @@
 <h3><a href="https://ajtwltsk.tistory.com/">I'm Super Junior</a></h3> 
 </div>
 
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 2`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 3`)  
 
+- <a href="https://ajtwltsk.tistory.com/403"> [Everyday Podo] How Smart Can AI Get? </a><br>  
 - <a href="https://ajtwltsk.tistory.com/402"> [毎日ブドウ] 病院に行かなければなりませ。 </a><br>  
 - <a href="https://ajtwltsk.tistory.com/401"> [Everyday Podo] A World Powered by Big Data </a><br>  
 - <a href="https://ajtwltsk.tistory.com/399"> [항해99 | 1일 1아티클 챌린지] Day 1 - 마인드셋 : 비전공 개발자의 커리어 연대기 </a><br>  
