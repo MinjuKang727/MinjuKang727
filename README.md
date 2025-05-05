@@ -182,8 +182,7 @@
 <h3><a href="https://ajtwltsk.tistory.com/">I'm Super Junior</a></h3> 
 </div>
 
-  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 1`)  
+  > I'm uploading contents on Tistory  (최근 일주일 간 게시글 `+ 0`)  
 
 - <a href="https://ajtwltsk.tistory.com/403"> [Everyday Podo] How Smart Can AI Get? </a><br>  
-- <a href="https://ajtwltsk.tistory.com/402"> [毎日ブドウ] 病院に行かなければなりませ。 </a><br>  
 
