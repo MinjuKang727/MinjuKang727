@@ -1,16 +1,15 @@
-# 호기심 많은 개발자 강민주입니다! 🐶🐾
-  > 백엔드 개발자로 매일매일 성장하기 위해 오늘도 열심히 공부중입니다!
+# 컴퓨터에 푹 빠진 호기심 많은 강민주입니다! 🐶🐾
+  > 현재는 전산직 9급 공무원 시험을 준비하는 공시생이자 한국방송통신대학교 컴퓨터과학과 2학년에 재학중인 대학생입니다.
+  > 매일매일 성장하기 위해 오늘도 열심히 공부중입니다!
 
 <br>
 
 ## 💁‍♀️ About Me
 
 ### Introduction
-- 안녕하세요! 신입 백엔드 개발자 강민주입니다.
-- 로봇, 메이킹에 대한 관심을 시작으로 프로그래밍에 입문하여 지금은 개발에 푹 빠져 있습니다.
-- 개발 공부를 할 때, 다른 분들의 기술 블로그에서 도움을 얻은만큼 저도 나누는 개발자가 되고 싶어 기술 블로그를 운영하고 있습니다.
-- 1일 1코딩테스트 문제 풀이 및 TIL 작성을 생활화하며 `꾸준히 공부하는 습관`을 형성하고 있습니다.
-- 요리🫕, 운동🧗‍♀️, 정원 가꾸기🌱에 관심이 많습니다.
+- 안녕하세요!
+- 로봇, 메이킹에 대한 관심을 시작으로 프로그래밍에 입문하여 지금은 방송대에서 관련 지식을 공부하며 전산직 공무원으로 취직하기 위해 열공중입니다.
+- 요리🫕, 운동🧗‍♀️, 동물🐶에 관심이 많습니다.
 
 ### Contact & Channel
 - **Email** : [ajtwltsk@naver.com](ajtwltsk@naver.com)
@@ -18,13 +17,16 @@
 
 <br>
 
-## ⛏️ Skills
+## ⛏️ Skills(한번이라도 사용해 본 것들)
 
 ### Backend
 
 - Java
 - Spring Boot, Spring MVC, Spring Data JPA
 - JPA, QueryDSL
+- Python
+- Flask
+- C
 
 ### DevOps
 
@@ -34,6 +36,7 @@
 ### Frontend
 
 - HTML, CSS, JS
+- Jinja
 
 ### Tools & Collaboration
 - IntelliJ, VSCode, Jupyter Notebook
@@ -166,11 +169,13 @@
 ### SQLD
 > 데이터모델링에 대한 기본 지식을 바탕으로 SQL 작성, 성능 최적화 등 데이터베이스 개체 설계 및 구현 등에 대한 전문지식 및 실무적 수행 능력을 증명
 
-- 2024.06.21 취득
+- 2024.06.21. 취득
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MinjuKang727&show_icons=true&theme=radical">
+### 정보처리기사
+
+- 2025. 09. 12. 합격
 
 <br><br>
 
